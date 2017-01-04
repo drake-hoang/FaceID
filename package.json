@@ -1,0 +1,22 @@
+{
+  "name": "faceid",
+  "version": "1.0.0",
+  "description": "FaceID with Azure Cognitive Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drake-hoang/FaceID.git"
+  },
+  "author": "drake-hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drake-hoang/FaceID/issues"
+  },
+  "homepage": "https://github.com/drake-hoang/FaceID#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
